@@ -20,8 +20,8 @@ Obviously to have this notion of distance, the months must **fit together and no
 
 _Attention: On the previous image we consider that there are 3 sections. In reality, **only one section should be considered**, otherwise the notion of distance does not make sense!_
 
-I define the **notion of distance** as follows:
-For two dates chosen in January of a defined year, J<sup>month</sup><sub>1</sub>(x,y), J<sup>month</sup><sub>2</sub>(x,y) with x is the day of the week (from 0 to 6), y is the week number of the year.  
+I define the **notion of distance** as follows:  
+**For two dates chosen in January of a defined year, J<sup>month</sup><sub>1</sub>(x,y), J<sup>month</sup><sub>2</sub>(x,y) with x is the day of the week (from 0 to 6), y is the week number of the year.**   
 We reason with a **Cartesian plane** and the **Euclidean distance**.
 
 Here are **some constraints** for this first part:
