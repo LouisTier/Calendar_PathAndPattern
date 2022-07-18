@@ -12,11 +12,15 @@ Of course, many elements are to be taken into account to carry out this project 
 
 Here is a first idea of how to approach the problem:
 
-![image](https://user-images.githubusercontent.com/105392989/174974823-149e08a8-df25-4a30-947f-7609ad357e73.png)
+<div id="first idea" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/174974823-149e08a8-df25-4a30-947f-7609ad357e73.png" width="750">
+</div>
 
 Obviously to have this notion of distance, the months must **fit together and not be cut up** as before. So we need to have the following version: 
 
-![image](https://user-images.githubusercontent.com/105392989/174974880-a65249e2-9365-4248-a35d-ac91aa470980.png)
+<div id="second picture" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/174974880-a65249e2-9365-4248-a35d-ac91aa470980.png" width="750">
+</div>
 
 _Attention: On the previous image we consider that there are 3 sections. In reality, **only one section should be considered**, otherwise the notion of distance does not make sense!_
 
@@ -38,7 +42,9 @@ To carry out this first part of the project, I split the problem into 3 categori
 
 In this second part, we try to **find the set of years where a defined pattern is located**. Here is an example of a pattern to find: 
 
-![image](https://user-images.githubusercontent.com/105392989/174982463-8ee12774-b0ca-4a1b-b15c-7a986a645a3b.png)
+<div id="pattern" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/174982463-8ee12774-b0ca-4a1b-b15c-7a986a645a3b.png" width="550">
+</div>
 
 For this part, I take into consideration the following **constraints**: 
   - From year 1900 to 2022
